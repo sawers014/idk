@@ -1,3 +1,2 @@
-# idk
-idk
-just my javascript folder
+Javascript Folder
+free to use
