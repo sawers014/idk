@@ -1,4 +1,4 @@
-```javascript
+
 function solution(number){
  let sum=0; 
   number--  //it says number BELOW so you have to lower it
@@ -8,4 +8,3 @@ function solution(number){
   }
   return sum
 }
-```
